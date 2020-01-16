@@ -10,16 +10,16 @@
   "author": "lakk1",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.6.4",
+    "autoprefixer": "^9.7.4",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.0",
     "parcel-bundler": "^1.12.4",
-    "sass": "^1.23.0"
+    "sass": "^1.24.4"
   }
 }
