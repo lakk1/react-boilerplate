@@ -1,4 +1,1 @@
-# lakiswap
-
-- client
-  - React/Nextjs Frontend
+## Boilerplate with Nextjs and Chakra UI.
